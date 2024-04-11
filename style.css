@@ -48,10 +48,6 @@ a:active {
     color: pink;
 }
 
-a:focus {
-    outline: 2px dashed pink;
-}
-
 .footer-content {
     display: flex;
     justify-content: space-around;
