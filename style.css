@@ -72,7 +72,7 @@ h2 {
     color: rgb(0, 170, 255);
 }
 
-p {
+p, li {
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
